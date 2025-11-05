@@ -1,0 +1,7 @@
+Python Libraries:
+
+pandas
+numpy
+matplotlib
+scikit-learn
+streamlit
